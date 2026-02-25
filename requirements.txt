@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torchdiffeq
+numba
+gplearn
+sympy
+scipy
+matplotlib
+scikit-learn
