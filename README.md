@@ -65,7 +65,7 @@ Clone the repository and set up a virtual environment to manage dependencies:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/SIR-Discovery.git](https://github.com/your-username/SIR-Discovery.git)
+git clone https://github.com/Awshae/SIR-Discovery.git
 cd SIR-Discovery
 
 # Create and activate virtual environment
