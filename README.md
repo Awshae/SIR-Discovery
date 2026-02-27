@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 You can interact with the project in two ways:
 
-#### A. The Research Notebook (Recommended for Reviewers)
+#### A. The Research Notebook 
 
 The most comprehensive way to view the project is through the Jupyter Notebook. It contains the full research narrative, including detailed Markdown explanations of the SciML principles and all generated visualizations.
 
