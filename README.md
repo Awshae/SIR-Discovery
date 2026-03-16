@@ -58,10 +58,10 @@ Using Symbolic Regression via Genetic Programming, the following equations were 
 ## Installation & Usage
 
 ### 1. Prerequisites
-Ensure you have **Python 3.10+** installed. This project utilizes **MPS (Metal Performance Shaders)** for acceleration on Apple Silicon but will automatically fall back to CPU if necessary.
+Ensure you have **Python 3.10+** installed.
 
 ### 2. Environment Setup
-Clone the repository and set up a virtual environment to manage dependencies:
+Clone the repository and set up a virtual environment to manage dependencies to prevent dependency issues:
 
 ```bash
 # Clone the repository
